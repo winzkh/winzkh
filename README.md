@@ -1,5 +1,5 @@
-[![winzkh's github stats](https://jsproxy.winzkh.workers.dev/-----https://github-readme-stats.vercel.app/api?username=winzkh)](https://github.com/anuraghazra/github-readme-stats)
-[![996.icu](https://https://jsproxy.winzkh.workers.dev/-----img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+[![winzkh's github stats](https://github-readme-stats.vercel.app/api?username=winzkh)](https://github.com/anuraghazra/github-readme-stats)
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 ```
                                       ........                                                 
                                   ....,/ooo\`....                                              
